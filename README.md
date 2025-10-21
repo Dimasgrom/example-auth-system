@@ -74,6 +74,7 @@ npm run dev
 ```
 
 The server will start on http://localhost:3001. The first time you run this, it will automatically create the auth_db database and users table.
+
 2. #### Start the Frontend server:
 (In the frontend/example-auth-system directory)
 ```
